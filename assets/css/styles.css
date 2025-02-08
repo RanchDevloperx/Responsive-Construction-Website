@@ -7,22 +7,24 @@
 
     /*========== Colors ==========*/
     /*Color mode HSL(hue, saturation, lightness)*/
-    --first-color: hsl(18, 95%, 55%);
-    --second-color: hsl(42, 98%, 52%);
+    --first-color: hsl(25, 100%, 50%); /* Oranye */
+    --second-color: hsl(30, 100%, 45%); /* Oranye lebih gelap */
     --first-gradient: linear-gradient(
         90deg,
-        hsl(18, 95%, 55%),
-        hsl(18, 98%, 64%)
+        hsl(0, 80%, 50%),
+        hsl(15, 90%, 55%),
+        hsl(25, 100%, 50%)
     );
-    --title-color: hsl(255, 12%, 12%);
-    --text-color: hsl(225, 12%, 24%);
-    --text-color-light: hsl(255, 4%, 70%);
+
+    --title-color: hsl(0, 0%, 10%); /* Hitam */
+    --text-color: hsl(0, 0%, 20%);
+    --text-color-light: hsl(0, 0%, 60%);
     --body-color: hsl(0, 0%, 100%);
-    --container-color: hsl(0, 0%, 100%);
+    --container-color: hsl(0, 0%, 95%);
     --white-color: hsl(0, 0%, 100%);
-    --black-color: hsl(255, 20%, 10%);
-    --gray-border: hsl(255, 6%, 90%);
-    --black-border: hsl(255, 10%, 20%);
+    --black-color: hsl(0, 0%, 0%);
+    --gray-border: hsl(0, 0%, 80%);
+    --black-border: hsl(0, 0%, 15%);
 
     /*========== Font and typography ==========*/
     /*.5rem = 8px | 1rem = 16px ...*/
