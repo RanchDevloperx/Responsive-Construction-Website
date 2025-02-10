@@ -12,7 +12,7 @@ Website Konstruksi Responsif adalah proyek yang dikembangkan menggunakan HTML, C
 ## Demo dan Tutorial
 Tonton video tutorial dan demo proyek ini di YouTube:
 🔗 [Ranch DevloperX](https://www.youtube.com/@ranchdevloperx)
-🔗 [Ranch DevloperX](ranch-construction-demo-website.vercel.app)
+🔗 [Demo Website](ranch-construction-demo-website.vercel.app)
 
 ## Cara Menggunakan
 1. **Clone repositori** ini ke lokal Anda:
